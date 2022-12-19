@@ -23,4 +23,4 @@
 2. To parse another business and another location - select the appropriate category and location on yelp.com, copy the link and paste it into the start_urls variable
 
 ### Example output
-![](img.png)
+![Example](img.png)
